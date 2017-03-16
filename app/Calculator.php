@@ -7,7 +7,7 @@ class Calculator
     public function sum($x, $y) 
     {
         $z = $x + $y;
-        return $z;
+        return 100;
     }
     public function diff($x, $y) 
     {
